@@ -25,7 +25,7 @@ export default function Home() {
               width={50}
               height={50}
             /> */}
-            <p className="text-white mt-2">Image Card 1 Governor's Initiative Program</p>
+            <p className="text-white mt-2">Image Card 1 Governors Initiative Program</p>
           </div>
 
           {/* Image Card 2 */}
@@ -37,7 +37,7 @@ export default function Home() {
               width={50}
               height={50}
             /> */}
-            <p className="text-white mt-2">Image Card 2 Governor's Initiative Program</p>
+            <p className="text-white mt-2">Image Card 2 Governors Initiative Program</p>
           </div>
         </div>
       </div>
