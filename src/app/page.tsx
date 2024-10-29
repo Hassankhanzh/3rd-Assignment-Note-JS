@@ -29,7 +29,7 @@ export default function Home() {
           </div>
 
           {/* Image Card 2 */}
-          <div className="w-2/5 bg-lime-900 h-300 rounded-md shadow-md p-2">
+          <div className="w-2/5 bg-lime-800 h-300 rounded-md shadow-md p-2">
             {/* <Image
               src="/path/to/your/image2.jpg"
               alt="Image 2"
